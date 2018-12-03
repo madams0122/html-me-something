@@ -1,0 +1,90 @@
+<header>
+	<h1>Wheatley Provident</h1>
+	<nav>
+		<ul>
+			<li>
+				<em>
+					<a href="#introductionandpreface">Introduction and Preface</a>
+				</em>
+			</li>
+			<li>
+				<em>
+					<a href="#awideningdivision">A Widening Division</a>
+				</em>
+			</li>
+			<li>
+				<em>
+					<a href="#architecturaltiesthatbind">Architectural Ties that Bind</a>
+				</em>
+			</li>
+		</ul>
+	</nav>
+</header>
+<article>
+	<section>
+		<img src="https://failedarchitecture.com/wp-content/uploads/2017/02/07_Wheatley-Provident.jpg" alt="" width="708" height="561" />
+		<h2>
+			<a href="&lt;a%20href=&quot;#introductionandpreface&quot;&gt;Introduction and Preface&lt;/a&gt;">Introduction and Preface</a>
+		</h2>
+		<p>
+			<em>&ldquo;The Building becomes architecture only when the mind of man consciously takes it and tries with all his resources to make it beautiful, to put concordance, sympathy with nature, and all that into it. Then you have architecture.&rdquo; </em>
+			<br />
+			<br /> ? 
+			<strong>Frank Lloyd Wright</strong>
+			<br />
+			<br />
+			<em>&ldquo;We shape our buildings, thereafter they shape us.&rdquo;</em>
+			<br />
+			<br /> - 
+			<strong>Winston Churchill</strong>
+		</p>
+		<figure></figure>
+	</section>
+	<section>
+		<h2>
+			<a href="&lt;a%20href=&quot;#awideningdivision&quot;&gt;A Widening Division&lt;/a&gt;">A Widening Division</a>
+		</h2>
+		<p>The need for Wheatley-Provident arose as a consequence of the systemic marginalization and increasing confinement of Kansas City&rsquo;s black community to the area around Troost. After the first World War, Southern blacks, -weary of a growing body of Jim Crow legislation and facing competition from hostile whites for scant, unskilled labor- fled to the large industrial cities of the Mid-West and North. An event known as &lsquo;The Great Migration,&rsquo; the population of blacks in Kansas City in the decades bracketing Wheatley&rsquo;s construction (ca. 1900-1920) increased by an astounding amount. This sudden influx of Southern blacks was not well-received by the city&rsquo;s white populace, who responded in turn by crowding an already cramped black populace in one area of the city. From &ldquo;A City Divided: The Racial Landscape of Kansas City, 1900-1960,&rdquo; by Sherry Lamb Schirmer: 
+			<br />
+			<br />
+			<em>&ldquo;A number of factors help to explain why white Kansas Citians tried harder to separate themselves from African Americans in the early twentieth century. For one, [the] black population increased by 72 percent between 1900 and 1920. As historians of race relations in other cities have noted, sizable increases in local black populations helped to excite whites&rsquo; animosities and to spur ghettoization.&rdquo;</em>[3, pg. 56]
+			<br />
+			<br /> Alongside and perhaps a likely consequence of The Great Migration, restrictive race-based housing covenants were implemented and subsequently perfected under the watch of JC Nichols, developer of the Plaza and Mission Hills. Author Kevin Gotham refers to Nichols as, &ldquo;one of the first and most prominent developer-builders to promote the use and enforcement of explicitly racially restrictive covenants.&rdquo;[4]
+			<br /> The cumulative effect of these policies has in due course, as deftly shown in the map below illustrating racial proximity, come to place Kansas City in the shameful position of being consistently one of the most segregated cities in the country. [5]
+		</p>
+	</section>
+</article>
+<figure>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KC_metro_map.svg/1920px-KC_metro_map.svg.png" alt="" width="495" height="221" />
+	<figcaption></figcaption>
+</figure>
+<section>
+	<h2>
+		<a href="&lt;a%20href=&quot;#architecturaltiesthatbind&quot;&gt;Architectural Ties that Bind&lt;/a&gt;">Architectural Ties that Bind</a>
+	</h2>
+	<p>The architectural history of Wheatley-Provident begins in earnest as something altogether different from its later use as a hospital. In terms of other examples of heritage architecture, this is not an unusual development. Istanbul&rsquo;s Hagia Sophia&rsquo;s initial usage as a Christian church; its subsequent conversion to an Imperial Mosque, and current use as a museum illuminate the many pathways an iconic structure can take over time. Fittingly, within this historical framework, the original structure that formed the basis of what was to become Wheatley-Provident took shape as St. Joseph&rsquo;s Parochial school in 1902.</p>
+	<p>The 1922-23 children&rsquo;s ward addition to Wheatley-Provident by Hoit, Price and Barnes is the most significant historical architectural detail, as it links the hospital to arguably the most iconic building in Kansas City -the Kansas City Power and Light Building. Hoit, Price and Barnes, according to a biographical pamphlet issued by the firm in 1933, was, at the time 
+		<em>&ldquo;one of the oldest organizations of its kind in the country.&rdquo;</em>[6]
+	</p>
+	<p>Originally formed in Boston after the close of the Civil War, one of the principal architects at the firm was Henry Van Brunt, for whom exists an eponymous street in Kansas City. Under Van Brunt, the firm was responsible for numerous structures around the country, including Memorial Hall at Harvard University and the Cambridge Public Library.</p>
+	<p>Within Kansas City, other important structures designed by various iterations of the firm are numerous and include: Emery, Bird and Thayer Dry Goods Company Building, the Independence Boulevard Christian Church, Temple B'Nai Jehuda and the H. A. Long Building; the Linwood Boulevard Christian Church; the Bell Telephone Building, the Kansas City Athletic Club, the Fidelity Bank &amp; Trust Company Building, the Kansas City Power &amp; Light Building, and Municipal Auditorium. [6] We can begin to see the influence of previously built structures by the firm in the construction of the Wheatley Children&rsquo;s Ward addition, and can likewise see the influence of the addition in subsequent buildings by the firm afterwards.</p>
+	<p>For instance, in 1901, under the name Hoit, Howe and Cutler, the firm began the design of the &ldquo;Varied Industries Building&rdquo; to be completed for the 1904 St. Louis World&rsquo;s Fair. A remarkable Neo-Classical structure featuring dozens of Ionic and Corinthian-topped pillars spanning an entire city block, the Varied Industries Building was similar in both size and scope to the 1922-23 addition to Wheatley.</p>
+	<figure></figure>
+</section>
+<section>
+	<p>When comparing the architectural plans for the 1922 addition to Wheatley by Hoit, Price and Barnes to the Varied Industries Building, the similarity in structure and aesthetic sensibility between the two buildings becomes clear.</p>
+	<figure></figure>
+	<p>The Linwood Boulevard Christian Church, stands as another stark example of structural similarities to Wheatley with other buildings in the firm&rsquo;s oeuvre while also closely linking it to the firms limestone-based aesthetic.</p>
+</section>
+<section>
+	<figure></figure>
+</section>
+<section>
+	<p>It&rsquo;s probable that almost all the limestone material used in the firm&rsquo;s buildings was quarried in Missouri, if not Kansas City itself. Limestone is an essential material of many buildings built by Hoit, Price and Barnes, and other buildings in the surrounding area; it&rsquo;s importance as a prime material in the architectural history of the city during the city&rsquo;s burgeoning years cannot be overstated. From the Geologic Column of Missouri: 
+		<br />
+		<br />
+		<em>&ldquo;The production of limestone contributes about one billion dollars annually to Missouri&rsquo;s economy, but is often taken for granted&hellip;Limestone is an important commodity in Missouri. It has been utilized for construction purposes since the settlement of the state.&rdquo; &ldquo;Missouri&rsquo;s limestone industry is vital to the state&rsquo;s economy and essential to our way of life. Missouri ranks first in the nation in the production of lime, fourth in the production of crushed limestone and fifth in the production of Portland cement.&rdquo; [7] </em>
+	</p>
+	<p>In fact so much limestone ore was mined from underneath Kansas City that the resultant caves have become a city unto itself, - appropriately named &ldquo;Subtropolis&rdquo;- storing the equivalent of 42 Kaufman stadiums worth of items.[9]</p>
+</section>
+<p>&copy; 2018 Michael Adams</p>
